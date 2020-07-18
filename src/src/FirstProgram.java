@@ -29,7 +29,7 @@ public class FirstProgram {
 		FirstProgram firstProgram = new FirstProgram();
 		firstProgram.setAddress("test");
 		int a = firstProgram.add(5,8);
-		
+		System.out.println("hello");
 		System.out.println("a "+a);
 		
 
